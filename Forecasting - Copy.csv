@@ -1,0 +1,421 @@
+Period,Day,Forecast,Method,Approach,Actual demand
+1,Monday,,MA (n = 3),Seasonality Not Included,220
+2,Tuesday,,MA (n = 3),Seasonality Not Included,200
+3,Wednesday,,MA (n = 3),Seasonality Not Included,230
+4,Thursday,216.6666667,MA (n = 3),Seasonality Not Included,180
+5,Friday,203.3333333,MA (n = 3),Seasonality Not Included,190
+6,Sunday,200,MA (n = 3),Seasonality Not Included,280
+7,Monday,216.6666667,MA (n = 3),Seasonality Not Included,250
+8,Tuesday,240,MA (n = 3),Seasonality Not Included,220
+9,Wednesday,250,MA (n = 3),Seasonality Not Included,260
+10,Thursday,243.3333333,MA (n = 3),Seasonality Not Included,190
+11,Friday,223.3333333,MA (n = 3),Seasonality Not Included,200
+12,Sunday,216.6666667,MA (n = 3),Seasonality Not Included,290
+13,Monday,226.6666667,MA (n = 3),Seasonality Not Included,260
+14,Tuesday,250,MA (n = 3),Seasonality Not Included,240
+15,Wednesday,263.3333333,MA (n = 3),Seasonality Not Included,230
+16,Thursday,243.3333333,MA (n = 3),Seasonality Not Included,200
+17,Friday,223.3333333,MA (n = 3),Seasonality Not Included,210
+18,Sunday,213.3333333,MA (n = 3),Seasonality Not Included,300
+19,Monday,236.6666667,MA (n = 3),Seasonality Not Included,280
+20,Tuesday,263.3333333,MA (n = 3),Seasonality Not Included,250
+21,Wednesday,276.6666667,MA (n = 3),Seasonality Not Included,250
+22,Thursday,260,MA (n = 3),Seasonality Not Included,220
+23,Friday,240,MA (n = 3),Seasonality Not Included,230
+24,Sunday,233.3333333,MA (n = 3),Seasonality Not Included,320
+25,Monday,256.6666667,MA (n = 3),Seasonality Not Included,
+26,Tuesday,268.8888889,MA (n = 3),Seasonality Not Included,
+27,Wednesday,281.8518519,MA (n = 3),Seasonality Not Included,
+28,Thursday,269.1358025,MA (n = 3),Seasonality Not Included,
+29,Friday,273.2921811,MA (n = 3),Seasonality Not Included,
+30,Sunday,274.7599451,MA (n = 3),Seasonality Not Included,
+1,Monday,,WMA (n = 3),Seasonality Not Included,220
+2,Tuesday,,WMA (n = 3),Seasonality Not Included,200
+3,Wednesday,,WMA (n = 3),Seasonality Not Included,230
+4,Thursday,223.6842134,WMA (n = 3),Seasonality Not Included,180
+5,Friday,191.0526265,WMA (n = 3),Seasonality Not Included,190
+6,Sunday,194.7368401,WMA (n = 3),Seasonality Not Included,280
+7,Monday,250.0000135,WMA (n = 3),Seasonality Not Included,250
+8,Tuesday,245.2631598,WMA (n = 3),Seasonality Not Included,220
+9,Wednesday,234.21052,WMA (n = 3),Seasonality Not Included,260
+10,Thursday,252.1052668,WMA (n = 3),Seasonality Not Included,190
+11,Friday,205.7894664,WMA (n = 3),Seasonality Not Included,200
+12,Sunday,207.8947335,WMA (n = 3),Seasonality Not Included,290
+13,Monday,260.0000135,WMA (n = 3),Seasonality Not Included,260
+14,Tuesday,255.2631598,WMA (n = 3),Seasonality Not Included,240
+15,Wednesday,251.0526267,WMA (n = 3),Seasonality Not Included,230
+16,Thursday,236.3157867,WMA (n = 3),Seasonality Not Included,200
+17,Friday,211.0526266,WMA (n = 3),Seasonality Not Included,210
+18,Sunday,211.5789467,WMA (n = 3),Seasonality Not Included,300
+19,Monday,270.0000135,WMA (n = 3),Seasonality Not Included,280
+20,Tuesday,272.1052665,WMA (n = 3),Seasonality Not Included,250
+21,Wednesday,262.6315733,WMA (n = 3),Seasonality Not Included,250
+22,Thursday,254.7368401,WMA (n = 3),Seasonality Not Included,220
+23,Friday,229.4736799,WMA (n = 3),Seasonality Not Included,230
+24,Sunday,231.5789467,WMA (n = 3),Seasonality Not Included,320
+25,Monday,290.0000135,WMA (n = 3),Seasonality Not Included,
+26,Tuesday,285.263169,WMA (n = 3),Seasonality Not Included,
+27,Wednesday,291.4958519,WMA (n = 3),Seasonality Not Included,
+28,Thursday,290.2755596,WMA (n = 3),Seasonality Not Included,
+29,Friday,289.6768075,WMA (n = 3),Seasonality Not Included,
+30,Sunday,290.0585647,WMA (n = 3),Seasonality Not Included,
+1,Monday,,ES,Seasonality Not Included,220
+2,Tuesday,220,ES,Seasonality Not Included,200
+3,Wednesday,215.6346851,ES,Seasonality Not Included,230
+4,Thursday,218.7701413,ES,Seasonality Not Included,180
+5,Friday,210.3079476,ES,Seasonality Not Included,190
+6,Sunday,205.8754183,ES,Seasonality Not Included,280
+7,Monday,222.0542752,ES,Seasonality Not Included,250
+8,Tuesday,228.1538696,ES,Seasonality Not Included,220
+9,Wednesday,226.3741592,ES,Seasonality Not Included,260
+10,Thursday,233.7135283,ES,Seasonality Not Included,190
+11,Friday,224.1723626,ES,Seasonality Not Included,200
+12,Sunday,218.8963639,ES,Seasonality Not Included,290
+13,Monday,234.4158518,ES,Seasonality Not Included,260
+14,Tuesday,239.9999949,ES,Seasonality Not Included,240
+15,Wednesday,239.999996,ES,Seasonality Not Included,230
+16,Thursday,237.8173395,ES,Seasonality Not Included,200
+17,Friday,229.5631098,ES,Seasonality Not Included,210
+18,Sunday,225.2931531,ES,Seasonality Not Included,300
+19,Monday,241.5990985,ES,Seasonality Not Included,280
+20,Tuesday,249.9806998,ES,Seasonality Not Included,250
+21,Wednesday,249.9849124,ES,Seasonality Not Included,250
+22,Thursday,249.9882055,ES,Seasonality Not Included,220
+23,Friday,243.4428075,ES,Seasonality Not Included,230
+24,Sunday,240.5087032,ES,Seasonality Not Included,320
+25,Monday,257.8589301,ES,Seasonality Not Included,
+26,Tuesday,,ES,Seasonality Not Included,
+27,Wednesday,,ES,Seasonality Not Included,
+28,Thursday,,ES,Seasonality Not Included,
+29,Friday,,ES,Seasonality Not Included,
+30,Sunday,,ES,Seasonality Not Included,
+1,Monday,211.7,LT,Seasonality Not Included,220
+2,Tuesday,213.9434783,LT,Seasonality Not Included,200
+3,Wednesday,216.1869565,LT,Seasonality Not Included,230
+4,Thursday,218.4304348,LT,Seasonality Not Included,180
+5,Friday,220.673913,LT,Seasonality Not Included,190
+6,Sunday,222.9173913,LT,Seasonality Not Included,280
+7,Monday,225.1608696,LT,Seasonality Not Included,250
+8,Tuesday,227.4043478,LT,Seasonality Not Included,220
+9,Wednesday,229.6478261,LT,Seasonality Not Included,260
+10,Thursday,231.8913043,LT,Seasonality Not Included,190
+11,Friday,234.1347826,LT,Seasonality Not Included,200
+12,Sunday,236.3782609,LT,Seasonality Not Included,290
+13,Monday,238.6217391,LT,Seasonality Not Included,260
+14,Tuesday,240.8652174,LT,Seasonality Not Included,240
+15,Wednesday,243.1086957,LT,Seasonality Not Included,230
+16,Thursday,245.3521739,LT,Seasonality Not Included,200
+17,Friday,247.5956522,LT,Seasonality Not Included,210
+18,Sunday,249.8391304,LT,Seasonality Not Included,300
+19,Monday,252.0826087,LT,Seasonality Not Included,280
+20,Tuesday,254.326087,LT,Seasonality Not Included,250
+21,Wednesday,256.5695652,LT,Seasonality Not Included,250
+22,Thursday,258.8130435,LT,Seasonality Not Included,220
+23,Friday,261.0565217,LT,Seasonality Not Included,230
+24,Sunday,263.3,LT,Seasonality Not Included,320
+25,Monday,265.5434783,LT,Seasonality Not Included,
+26,Tuesday,267.7869565,LT,Seasonality Not Included,
+27,Wednesday,270.0304348,LT,Seasonality Not Included,
+28,Thursday,272.273913,LT,Seasonality Not Included,
+29,Friday,274.5173913,LT,Seasonality Not Included,
+30,Sunday,276.7608696,LT,Seasonality Not Included,
+1,Monday,,MA (n = 3),With Seasonal Relatives,220
+2,Tuesday,,MA (n = 3),With Seasonal Relatives,200
+3,Wednesday,,MA (n = 3),With Seasonal Relatives,230
+4,Thursday,177.6750564,MA (n = 3),With Seasonal Relatives,180
+5,Friday,189.4452101,MA (n = 3),With Seasonal Relatives,190
+6,Sunday,275.2379425,MA (n = 3),With Seasonal Relatives,280
+7,Monday,232.9928201,MA (n = 3),With Seasonal Relatives,250
+8,Tuesday,215.8928083,MA (n = 3),With Seasonal Relatives,220
+9,Wednesday,234.2799328,MA (n = 3),With Seasonal Relatives,260
+10,Thursday,199.4287143,MA (n = 3),With Seasonal Relatives,190
+11,Friday,207.5846069,MA (n = 3),With Seasonal Relatives,200
+12,Sunday,297.3061973,MA (n = 3),With Seasonal Relatives,290
+13,Monday,244.1397801,MA (n = 3),With Seasonal Relatives,260
+14,Tuesday,225.0997467,MA (n = 3),With Seasonal Relatives,240
+15,Wednesday,247.3045669,MA (n = 3),With Seasonal Relatives,230
+16,Thursday,199.6791909,MA (n = 3),With Seasonal Relatives,200
+17,Friday,208.6106016,MA (n = 3),With Seasonal Relatives,210
+18,Sunday,294.8383695,MA (n = 3),With Seasonal Relatives,300
+19,Monday,255.28674,MA (n = 3),With Seasonal Relatives,280
+20,Tuesday,237.3099854,MA (n = 3),With Seasonal Relatives,250
+21,Wednesday,259.9774076,MA (n = 3),With Seasonal Relatives,250
+22,Thursday,213.2170385,MA (n = 3),With Seasonal Relatives,220
+23,Friday,224.3595814,MA (n = 3),With Seasonal Relatives,230
+24,Sunday,322.6174907,MA (n = 3),With Seasonal Relatives,320
+25,Monday,277.5806598,MA (n = 3),With Seasonal Relatives,
+26,Tuesday,254.2558701,MA (n = 3),With Seasonal Relatives,
+27,Wednesday,267.9578082,MA (n = 3),With Seasonal Relatives,
+28,Thursday,221.6973779,MA (n = 3),With Seasonal Relatives,
+29,Friday,216.6477813,MA (n = 3),With Seasonal Relatives,
+30,Sunday,294.9124671,MA (n = 3),With Seasonal Relatives,
+1,Monday,,WMA (n = 3),With Seasonal Relatives,220
+2,Tuesday,,WMA (n = 3),With Seasonal Relatives,200
+3,Wednesday,,WMA (n = 3),With Seasonal Relatives,230
+4,Thursday,181.9094856,WMA (n = 3),With Seasonal Relatives,180
+5,Friday,189.299759,WMA (n = 3),With Seasonal Relatives,190
+6,Sunday,273.9961763,WMA (n = 3),With Seasonal Relatives,280
+7,Monday,235.0362625,WMA (n = 3),With Seasonal Relatives,250
+8,Tuesday,219.9999944,WMA (n = 3),With Seasonal Relatives,220
+9,Wednesday,234.3789657,WMA (n = 3),With Seasonal Relatives,260
+10,Thursday,204.8395035,WMA (n = 3),With Seasonal Relatives,190
+11,Friday,204.0878593,WMA (n = 3),With Seasonal Relatives,200
+12,Sunday,292.6701788,WMA (n = 3),With Seasonal Relatives,290
+13,Monday,245.0155411,WMA (n = 3),With Seasonal Relatives,260
+14,Tuesday,229.1204236,WMA (n = 3),With Seasonal Relatives,240
+15,Wednesday,251.0450993,WMA (n = 3),With Seasonal Relatives,230
+16,Thursday,194.2527099,WMA (n = 3),With Seasonal Relatives,200
+17,Friday,209.2761925,WMA (n = 3),With Seasonal Relatives,210
+18,Sunday,297.5806603,WMA (n = 3),With Seasonal Relatives,300
+19,Monday,254.9948196,WMA (n = 3),With Seasonal Relatives,280
+20,Tuesday,243.8813497,WMA (n = 3),With Seasonal Relatives,250
+21,Wednesday,262.8339132,WMA (n = 3),With Seasonal Relatives,250
+22,Thursday,208.998301,WMA (n = 3),With Seasonal Relatives,220
+23,Friday,227.3361891,WMA (n = 3),With Seasonal Relatives,230
+24,Sunday,325.7529846,WMA (n = 3),With Seasonal Relatives,320
+25,Monday,274.9533767,WMA (n = 3),With Seasonal Relatives,
+26,Tuesday,257.7896595,WMA (n = 3),With Seasonal Relatives,
+27,Wednesday,266.0493443,WMA (n = 3),With Seasonal Relatives,
+28,Thursday,221.3412242,WMA (n = 3),With Seasonal Relatives,
+29,Friday,206.640429,WMA (n = 3),With Seasonal Relatives,
+30,Sunday,276.2024013,WMA (n = 3),With Seasonal Relatives,
+1,Monday,,ES,With Seasonal Relatives,220
+2,Tuesday,204.8583605,ES,With Seasonal Relatives,200
+3,Wednesday,216.6813578,ES,With Seasonal Relatives,230
+4,Thursday,180.0000134,ES,With Seasonal Relatives,180
+5,Friday,189.1139336,ES,With Seasonal Relatives,190
+6,Sunday,271.5523922,ES,With Seasonal Relatives,280
+7,Monday,232.8089162,ES,With Seasonal Relatives,250
+8,Tuesday,214.7956598,ES,With Seasonal Relatives,220
+9,Wednesday,230.762092,ES,With Seasonal Relatives,260
+10,Thursday,195.6841947,ES,With Seasonal Relatives,190
+11,Friday,203.6501178,ES,With Seasonal Relatives,200
+12,Sunday,290.2783827,ES,With Seasonal Relatives,290
+13,Monday,246.29389,ES,With Seasonal Relatives,260
+14,Tuesday,225.9243613,ES,With Seasonal Relatives,240
+15,Wednesday,245.6997835,ES,With Seasonal Relatives,230
+16,Thursday,195.9477743,ES,With Seasonal Relatives,200
+17,Friday,207.2537178,ES,With Seasonal Relatives,210
+18,Sunday,298.4273803,ES,With Seasonal Relatives,300
+19,Monday,253.7211726,ES,With Seasonal Relatives,280
+20,Tuesday,236.3001808,ES,With Seasonal Relatives,250
+21,Wednesday,256.6294454,ES,With Seasonal Relatives,250
+22,Thursday,207.2516157,ES,With Seasonal Relatives,220
+23,Friday,222.1011505,ES,With Seasonal Relatives,230
+24,Sunday,322.1171033,ES,With Seasonal Relatives,320
+25,Monday,272.8091532,ES,With Seasonal Relatives,
+26,Tuesday,,ES,With Seasonal Relatives,
+27,Wednesday,,ES,With Seasonal Relatives,
+28,Thursday,,ES,With Seasonal Relatives,
+29,Friday,,ES,With Seasonal Relatives,
+30,Sunday,,ES,With Seasonal Relatives,
+1,Monday,227.1605039,LT,With Seasonal Relatives,220
+2,Tuesday,206.6546375,LT,With Seasonal Relatives,200
+3,Wednesday,222.3963877,LT,With Seasonal Relatives,230
+4,Thursday,182.8504334,LT,With Seasonal Relatives,180
+5,Friday,193.9194263,LT,With Seasonal Relatives,190
+6,Sunday,280.6251828,LT,With Seasonal Relatives,280
+7,Monday,240.3811106,LT,With Seasonal Relatives,250
+8,Tuesday,218.5662732,LT,With Seasonal Relatives,220
+9,Wednesday,235.093406,LT,With Seasonal Relatives,260
+10,Thursday,193.1913039,LT,With Seasonal Relatives,190
+11,Friday,204.7838853,LT,With Seasonal Relatives,200
+12,Sunday,296.2019371,LT,With Seasonal Relatives,290
+13,Monday,253.6017172,LT,With Seasonal Relatives,260
+14,Tuesday,230.4779089,LT,With Seasonal Relatives,240
+15,Wednesday,247.7904243,LT,With Seasonal Relatives,230
+16,Thursday,203.5321745,LT,With Seasonal Relatives,200
+17,Friday,215.6483442,LT,With Seasonal Relatives,210
+18,Sunday,311.7786915,LT,With Seasonal Relatives,300
+19,Monday,266.8223239,LT,With Seasonal Relatives,280
+20,Tuesday,242.3895446,LT,With Seasonal Relatives,250
+21,Wednesday,260.4874425,LT,With Seasonal Relatives,250
+22,Thursday,213.873045,LT,With Seasonal Relatives,220
+23,Friday,226.5128031,LT,With Seasonal Relatives,230
+24,Sunday,327.3554459,LT,With Seasonal Relatives,320
+25,Monday,280.0429305,LT,With Seasonal Relatives,
+26,Tuesday,254.3011803,LT,With Seasonal Relatives,
+27,Wednesday,273.1844608,LT,With Seasonal Relatives,
+28,Thursday,224.2139156,LT,With Seasonal Relatives,
+29,Friday,237.3772621,LT,With Seasonal Relatives,
+30,Sunday,342.9322002,LT,With Seasonal Relatives,
+1,Monday,,TES,With Seasonal Relatives,220
+2,Tuesday,,TES,With Seasonal Relatives,200
+3,Wednesday,,TES,With Seasonal Relatives,230
+4,Thursday,,TES,With Seasonal Relatives,180
+5,Friday,,TES,With Seasonal Relatives,190
+6,Sunday,,TES,With Seasonal Relatives,280
+7,Monday,,TES,With Seasonal Relatives,250
+8,Tuesday,254.5454545,TES,With Seasonal Relatives,220
+9,Wednesday,275.4818018,TES,With Seasonal Relatives,260
+10,Thursday,210.6964458,TES,With Seasonal Relatives,190
+11,Friday,200.1365584,TES,With Seasonal Relatives,200
+12,Sunday,286.1347777,TES,With Seasonal Relatives,290
+13,Monday,221.7383572,TES,With Seasonal Relatives,260
+14,Tuesday,230.3387356,TES,With Seasonal Relatives,240
+15,Wednesday,298.0846569,TES,With Seasonal Relatives,230
+16,Thursday,180.2848701,TES,With Seasonal Relatives,200
+17,Friday,210.0729664,TES,With Seasonal Relatives,210
+18,Sunday,308.4466767,TES,With Seasonal Relatives,300
+19,Monday,240.5243484,TES,With Seasonal Relatives,280
+20,Tuesday,241.8273257,TES,With Seasonal Relatives,250
+21,Wednesday,286.1396433,TES,With Seasonal Relatives,250
+22,Thursday,219.9999993,TES,With Seasonal Relatives,220
+23,Friday,232.3993891,TES,With Seasonal Relatives,230
+24,Sunday,336.717041,TES,With Seasonal Relatives,320
+25,Monday,266.448711,TES,With Seasonal Relatives,
+26,Tuesday,213.9751344,TES,With Seasonal Relatives,
+27,Wednesday,215.4435855,TES,With Seasonal Relatives,
+28,Thursday,183.4348782,TES,With Seasonal Relatives,
+29,Friday,186.7790221,TES,With Seasonal Relatives,
+30,Sunday,261.8406842,TES,With Seasonal Relatives,
+1,Monday,,MA (n = 3),Day Specific,220
+2,Tuesday,,MA (n = 3),Day Specific,200
+3,Wednesday,,MA (n = 3),Day Specific,230
+4,Thursday,,MA (n = 3),Day Specific,180
+5,Friday,,MA (n = 3),Day Specific,190
+6,Sunday,,MA (n = 3),Day Specific,280
+7,Monday,,MA (n = 3),Day Specific,250
+8,Tuesday,,MA (n = 3),Day Specific,220
+9,Wednesday,,MA (n = 3),Day Specific,260
+10,Thursday,,MA (n = 3),Day Specific,190
+11,Friday,,MA (n = 3),Day Specific,200
+12,Sunday,,MA (n = 3),Day Specific,290
+13,Monday,,MA (n = 3),Day Specific,260
+14,Tuesday,,MA (n = 3),Day Specific,240
+15,Wednesday,,MA (n = 3),Day Specific,230
+16,Thursday,,MA (n = 3),Day Specific,200
+17,Friday,,MA (n = 3),Day Specific,210
+18,Sunday,,MA (n = 3),Day Specific,300
+19,Monday,243.3333333,MA (n = 3),Day Specific,280
+20,Tuesday,220,MA (n = 3),Day Specific,250
+21,Wednesday,240,MA (n = 3),Day Specific,250
+22,Thursday,190,MA (n = 3),Day Specific,220
+23,Friday,200,MA (n = 3),Day Specific,230
+24,Sunday,290,MA (n = 3),Day Specific,320
+25,Monday,263.3333333,MA (n = 3),Day Specific,
+26,Tuesday,236.6666667,MA (n = 3),Day Specific,
+27,Wednesday,246.6666667,MA (n = 3),Day Specific,
+28,Thursday,203.3333333,MA (n = 3),Day Specific,
+29,Friday,213.3333333,MA (n = 3),Day Specific,
+30,Sunday,303.3333333,MA (n = 3),Day Specific,
+1,Monday,,WMA (n = 3),Day Specific,220
+2,Tuesday,,WMA (n = 3),Day Specific,200
+3,Wednesday,,WMA (n = 3),Day Specific,230
+4,Thursday,,WMA (n = 3),Day Specific,180
+5,Friday,,WMA (n = 3),Day Specific,190
+6,Sunday,,WMA (n = 3),Day Specific,280
+7,Monday,,WMA (n = 3),Day Specific,250
+8,Tuesday,,WMA (n = 3),Day Specific,220
+9,Wednesday,,WMA (n = 3),Day Specific,260
+10,Thursday,,WMA (n = 3),Day Specific,190
+11,Friday,,WMA (n = 3),Day Specific,200
+12,Sunday,,WMA (n = 3),Day Specific,290
+13,Monday,,WMA (n = 3),Day Specific,260
+14,Tuesday,,WMA (n = 3),Day Specific,240
+15,Wednesday,,WMA (n = 3),Day Specific,230
+16,Thursday,,WMA (n = 3),Day Specific,200
+17,Friday,,WMA (n = 3),Day Specific,210
+18,Sunday,,WMA (n = 3),Day Specific,300
+19,Monday,260,WMA (n = 3),Day Specific,280
+20,Tuesday,240,WMA (n = 3),Day Specific,250
+21,Wednesday,245,WMA (n = 3),Day Specific,250
+22,Thursday,200,WMA (n = 3),Day Specific,220
+23,Friday,210,WMA (n = 3),Day Specific,230
+24,Sunday,300,WMA (n = 3),Day Specific,320
+25,Monday,280,WMA (n = 3),Day Specific,
+26,Tuesday,250,WMA (n = 3),Day Specific,
+27,Wednesday,240,WMA (n = 3),Day Specific,
+28,Thursday,220,WMA (n = 3),Day Specific,
+29,Friday,230,WMA (n = 3),Day Specific,
+30,Sunday,320,WMA (n = 3),Day Specific,
+1,Monday,,ES,Day Specific,220
+2,Tuesday,,ES,Day Specific,200
+3,Wednesday,,ES,Day Specific,230
+4,Thursday,,ES,Day Specific,180
+5,Friday,,ES,Day Specific,190
+6,Sunday,,ES,Day Specific,280
+7,Monday,220,ES,Day Specific,250
+8,Tuesday,200,ES,Day Specific,220
+9,Wednesday,230,ES,Day Specific,260
+10,Thursday,180,ES,Day Specific,190
+11,Friday,190,ES,Day Specific,200
+12,Sunday,280,ES,Day Specific,290
+13,Monday,259.9999951,ES,Day Specific,260
+14,Tuesday,240,ES,Day Specific,240
+15,Wednesday,260,ES,Day Specific,230
+16,Thursday,200,ES,Day Specific,200
+17,Friday,210,ES,Day Specific,210
+18,Sunday,300,ES,Day Specific,300
+19,Monday,260.0000016,ES,Day Specific,280
+20,Tuesday,240,ES,Day Specific,250
+21,Wednesday,230,ES,Day Specific,250
+22,Thursday,200,ES,Day Specific,220
+23,Friday,210,ES,Day Specific,230
+24,Sunday,300,ES,Day Specific,320
+25,Monday,286.6666629,ES,Day Specific,
+26,Tuesday,260,ES,Day Specific,
+27,Wednesday,250,ES,Day Specific,
+28,Thursday,240,ES,Day Specific,
+29,Friday,250,ES,Day Specific,
+30,Sunday,340,ES,Day Specific,
+1,Monday,224,LT,Day Specific,220
+2,Tuesday,202,LT,Day Specific,200
+3,Wednesday,238,LT,Day Specific,230
+4,Thursday,178,LT,Day Specific,180
+5,Friday,188,LT,Day Specific,190
+6,Sunday,278,LT,Day Specific,280
+7,Monday,243,LT,Day Specific,250
+8,Tuesday,219,LT,Day Specific,220
+9,Wednesday,241,LT,Day Specific,260
+10,Thursday,191,LT,Day Specific,190
+11,Friday,201,LT,Day Specific,200
+12,Sunday,291,LT,Day Specific,290
+13,Monday,262,LT,Day Specific,260
+14,Tuesday,236,LT,Day Specific,240
+15,Wednesday,244,LT,Day Specific,230
+16,Thursday,204,LT,Day Specific,200
+17,Friday,214,LT,Day Specific,210
+18,Sunday,304,LT,Day Specific,300
+19,Monday,281,LT,Day Specific,280
+20,Tuesday,253,LT,Day Specific,250
+21,Wednesday,247,LT,Day Specific,250
+22,Thursday,217,LT,Day Specific,220
+23,Friday,227,LT,Day Specific,230
+24,Sunday,317,LT,Day Specific,320
+25,Monday,300,LT,Day Specific,
+26,Tuesday,270,LT,Day Specific,
+27,Wednesday,250,LT,Day Specific,
+28,Thursday,230,LT,Day Specific,
+29,Friday,240,LT,Day Specific,
+30,Sunday,330,LT,Day Specific,
+1,Monday,224,LT + WMA,Day Specific,220
+2,Tuesday,202,LT + WMA,Day Specific,200
+3,Wednesday,,LT + WMA,Day Specific,230
+4,Thursday,178,LT + WMA,Day Specific,180
+5,Friday,188,LT + WMA,Day Specific,190
+6,Sunday,278,LT + WMA,Day Specific,280
+7,Monday,243,LT + WMA,Day Specific,250
+8,Tuesday,219,LT + WMA,Day Specific,220
+9,Wednesday,,LT + WMA,Day Specific,260
+10,Thursday,191,LT + WMA,Day Specific,190
+11,Friday,201,LT + WMA,Day Specific,200
+12,Sunday,291,LT + WMA,Day Specific,290
+13,Monday,262,LT + WMA,Day Specific,260
+14,Tuesday,236,LT + WMA,Day Specific,240
+15,Wednesday,,LT + WMA,Day Specific,230
+16,Thursday,204,LT + WMA,Day Specific,200
+17,Friday,214,LT + WMA,Day Specific,210
+18,Sunday,304,LT + WMA,Day Specific,300
+19,Monday,281,LT + WMA,Day Specific,280
+20,Tuesday,253,LT + WMA,Day Specific,250
+21,Wednesday,245,LT + WMA,Day Specific,250
+22,Thursday,217,LT + WMA,Day Specific,220
+23,Friday,227,LT + WMA,Day Specific,230
+24,Sunday,317,LT + WMA,Day Specific,320
+25,Monday,300,LT + WMA,Day Specific,
+26,Tuesday,270,LT + WMA,Day Specific,
+27,Wednesday,240,LT + WMA,Day Specific,
+28,Thursday,230,LT + WMA,Day Specific,
+29,Friday,240,LT + WMA,Day Specific,
+30,Sunday,330,LT + WMA,Day Specific,
