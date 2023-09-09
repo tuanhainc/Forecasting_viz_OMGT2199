@@ -1,0 +1,17 @@
+install.packages('tidyverse')
+library(tidyverse)
+
+#import data
+hbc <- read.csv(file.choose())
+
+#data visualization
+ggplot(data=hbc)+
+  geom_line(data=hbc,mapping=aes(x=Period,y=Forecast, color="Forecast Demand"))+
+  geom_line(mapping=aes(x=Period,y=Actual.demand, color="Actual Demand"), alpha=0.6)+
+  facet_grid(factor(Method,levels=c("MA (n = 3)","WMA (n = 3)","ES","LT","TES","LT + WMA"))~Approach)+
+  expand_limits(y = c(0,350))+
+  scale_color_manual(name='Type',
+                     values=c("Forecast Demand"="blue","Actual Demand"="red"))+
+  ggtitle("Forecast Demand on Different Techniques and Approaches")+
+  ylab("Demand")+
+  theme(strip.text.x = element_text(size = 8), strip.text.y = element_text(size = 5))
